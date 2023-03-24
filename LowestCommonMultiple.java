@@ -1,4 +1,4 @@
-This program calculates the Lowest Common multiple
+//This program calculates the Lowest Common multiple
 // for excessively long input values
  
 import java.util.*;
